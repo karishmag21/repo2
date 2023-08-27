@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is D6D4-D236
+
+ Directory of C:\Users\hp\OneDrive\Desktop\project
+
+08/28/2023  02:15 AM    <DIR>          .
+08/28/2023  12:48 AM    <DIR>          ..
+08/28/2023  12:21 AM               408 index.html
+08/28/2023  12:20 AM                12 test1.txt
+08/28/2023  02:15 AM                 0 test2.txt
+               3 File(s)            420 bytes
+               2 Dir(s)  82,950,889,472 bytes free
